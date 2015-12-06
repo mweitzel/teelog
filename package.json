@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mweitzel/tlog"
+    "url": "https://github.com/mweitzel/teelog"
   },
   "keywords": [
     "log",
@@ -18,7 +18,7 @@
   "author": "Matthew Weitzel <mweitzel@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mweitzel/tlog/issues"
+    "url": "https://github.com/mweitzel/teelog/issues"
   },
-  "homepage": "https://github.com/mweitzel/tlog"
+  "homepage": "https://github.com/mweitzel/teelog"
 }
