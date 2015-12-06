@@ -1,0 +1,24 @@
+{
+  "name": "tlog",
+  "version": "1.0.0",
+  "description": "functional console.log, returns parameter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mweitzel/tlog"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "functional"
+  ],
+  "author": "Matthew Weitzel <mweitzel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mweitzel/tlog/issues"
+  },
+  "homepage": "https://github.com/mweitzel/tlog"
+}
