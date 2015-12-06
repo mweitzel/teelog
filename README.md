@@ -1,4 +1,4 @@
-## tlog
+## teelog
 
 debug/log objects inline, and without a temporary variable
 
@@ -9,8 +9,8 @@ foo(bar)
 
 log it inline
 ```js
-require('tlog')
+var tl = require('teelog')
 
-foo(tlog(bar))
+foo(tl(bar))
 ```
 
